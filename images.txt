@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 tensorflow/tensorflow:nightly-gpu
+tensorflow/tensorflow:2.13.0-gpu
