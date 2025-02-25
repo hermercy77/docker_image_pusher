@@ -7,3 +7,4 @@ xhofe/alist:latest
 tensorflow/tensorflow:nightly-gpu
 tensorflow/tensorflow:2.13.0-gpu
 elasticsearch:8.16.1
+ghcr.io/haishanh/yacd:master
